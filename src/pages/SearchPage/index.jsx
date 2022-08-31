@@ -23,6 +23,9 @@ const SearchPage = () => {
       <h3 className="header">Discover your favorite artists</h3>
       <SearchForm getResults={handleSearch} />
       <ShowArtist data={showData} />
+      <p className="footer">
+        Ⓒ 2022 <a href="https://developers.deezer.com/api">Deezer</a>
+      </p>
     </>
   );
 };
