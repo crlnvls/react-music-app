@@ -3,7 +3,7 @@ import React from "react";
 const ShowArtist = ({ data }) => {
   return (
     <>
-      <h1 className="artist-name">{data["name"]}</h1>
+      <h2 className="artist-name">{data["name"]}</h2>
       {<img className="artist-img" src={data["picture_medium"]}></img>}
     </>
   );
