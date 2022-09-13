@@ -12,6 +12,6 @@
 
 ## Bonus
 
-- [x] Build & [deploy](https://github.com/getfutureproof/fp_guides_wiki/wiki/React-Deploy-with-Netlify) your React app:
+- [x] Build & [deploy](https://github.com/getfutureproof/fp_guides_wiki/wiki/React-Deploy-with-Netlify) your React app: [react-musicapp.netlify.app](react-musicapp.netlify.app)
 
 - [x] Have a go at [styling your app](https://reactjs.org/docs/faq-styling.html)
